@@ -2,7 +2,7 @@
 <details open><br>
 <summary>Install</summary>
 
-Clone repo and install [**Python>=3.6.0**](https://www.python.org/) is required with all
+Clone repo and install [**Python>=3.8.10**](https://www.python.org/) is required with all
 [requirements.txt](https://github.com/arxlan786/Cuboid-Sphere/blob/main/requirements.txt) installed:
 
 
